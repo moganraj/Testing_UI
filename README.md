@@ -7,7 +7,7 @@ Below test case are covered as part of the testing.
 Broken Image:
 
 1) Navigate to Broken Image Page
-2) Verify the existance of Broken Image
+2) Verify the existence of Broken Image
 
 Forgot Password:
 
